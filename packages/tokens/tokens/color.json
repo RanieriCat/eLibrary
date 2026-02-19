@@ -1,0 +1,12 @@
+{
+  "color": {
+    "primary": { "value": "37 99 235" },
+    "primaryForeground": { "value": "255 255 255" },
+    "surface": { "value": "255 255 255" },
+    "surfaceMuted": { "value": "244 246 248" },
+    "text": { "value": "16 24 40" },
+    "border": { "value": "208 213 221" },
+    "success": { "value": "18 183 106" },
+    "danger": { "value": "245 54 92" }
+  }
+}

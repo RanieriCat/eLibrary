@@ -1,0 +1,24 @@
+{
+  "name": "metodo-a-commerce",
+  "private": true,
+  "packageManager": "pnpm@10.4.0",
+  "scripts": {
+    "dev": "turbo run dev --parallel --filter=storefront",
+    "build": "turbo run build",
+    "lint": "turbo run lint",
+    "test": "turbo run test",
+    "typecheck": "turbo run typecheck",
+    "storybook": "turbo run storybook --filter=storybook",
+    "storybook:build": "turbo run storybook:build --filter=storybook"
+  },
+  "devDependencies": {
+    "@changesets/cli": "^2.27.9",
+    "@types/node": "^22.10.2",
+    "eslint": "^9.17.0",
+    "eslint-config-next": "^15.1.0",
+    "prettier": "^3.4.2",
+    "turbo": "^2.3.3",
+    "typescript": "^5.7.2",
+    "vitest": "^2.1.8"
+  }
+}

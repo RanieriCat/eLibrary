@@ -1,0 +1,4 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "include": [".storybook", "../../packages/ui/src/**/*.ts", "../../packages/ui/src/**/*.tsx"]
+}

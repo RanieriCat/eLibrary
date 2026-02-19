@@ -1,0 +1,9 @@
+.theme-brand-a {
+  --color-primary: 124 58 237;
+  --color-primary-foreground: 255 255 255;
+  --color-surface: 251 245 255;
+  --color-surface-muted: 243 232 255;
+  --color-text: 59 7 100;
+  --color-border: 216 180 254;
+  --color-success: 5 150 105;
+}
