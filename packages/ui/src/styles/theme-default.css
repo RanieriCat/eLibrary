@@ -1,0 +1,10 @@
+:root,
+.theme-default {
+  --color-primary: 37 99 235;
+  --color-primary-foreground: 255 255 255;
+  --color-surface: 255 255 255;
+  --color-surface-muted: 244 246 248;
+  --color-text: 16 24 40;
+  --color-border: 208 213 221;
+  --color-success: 18 183 106;
+}
